@@ -1,0 +1,2 @@
+# ZhipuAI_Photoprogram
+一个调用智普AI的文生图模型api进行图片生成的图形化程序
